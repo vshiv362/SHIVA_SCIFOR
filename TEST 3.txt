@@ -1,0 +1,35 @@
+ANS1:- There are seven formatting tags in html like <b>, <i>, <u>, <strong>, <em>, <s>, <sub>, and <sup>.
+
+ANS2:To merge rows and columns in an HTML table, you can use the rowspan and colspan attribute,
+
+ANS3: CELLSPACING:
+	Cellspacing is specifies the space between the borders of adjacent table cells.
+	table {border-spacing: 10px;}
+
+      CELLPADDING:
+	Cellpadding is specifies the space between the content of the cell and the cell border.
+	td {padding: 10px;}
+
+ ANS4:A semantic element clearly describes its meaning to us, the tags which accurately describe their purpose and the type of their content are called semantic tags, ex: <header>,<form>,<table>,<footer>,<h1> to <h6>.
+
+
+ANS5: this is html code
+<html>
+<head>
+    <title>Background Image</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Shiva Verma</h1>
+    <p>This is an example of how to add a background image to a webpage.</p>
+</body>
+</html>
+
+and this css code
+
+body {
+    background-image: url('background.jpg');
+    margin: 0;
+   }
+
+ANS6:The alt attribute in HTML is used within img tags to provide alternative text for an image. 
